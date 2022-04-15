@@ -1,5 +1,11 @@
 # YooKassa API PHP Client Library
 
+## Важное:
+* Это клон репозитория yoomoney (оригинал выпилили https://github.com/yoomoney/yookassa-sdk-php)
+* Оригинал находится тут: https://git.yoomoney.ru/projects/SDK/repos/yookassa-sdk-php
+* Использование: `composer require politsin/yookassa-sdk-php`
+## Далее оригинальный текст
+
 [![Build Status](https://travis-ci.org/yoomoney/yookassa-sdk-php.svg?branch=master)](https://travis-ci.org/yoomoney/yookassa-sdk-php)
 [![Latest Stable Version](https://poser.pugx.org/yoomoney/yookassa-sdk-php/v/stable)](https://packagist.org/packages/yoomoney/yookassa-sdk-php)
 [![Total Downloads](https://poser.pugx.org/yoomoney/yookassa-sdk-php/downloads)](https://packagist.org/packages/yoomoney/yookassa-sdk-php)
